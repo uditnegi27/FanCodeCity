@@ -14,7 +14,7 @@ This is an API automation project written in Java with Spring Boot, utilizing Re
 
 ## Prerequisites
 Before running the project, ensure you have the following installed on your machine:
-- **Java JDK** (version 21 or above)
+- **Java JDK** (version 17 or above)
 - **Maven** (version 3.6 or above)
 
 ## Project Setup
