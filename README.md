@@ -7,6 +7,8 @@
 ## Project Description
 This is an API automation project written in Java with Spring Boot, utilizing Rest Assured for API testing and Cucumber for behavior-driven development (BDD). The project aims to verify whether users from fanCode City have over 50% of their todo tasks completed.
 
+*****   intentionally in first scenarios can expect failure   *****
+
 ## Tech Stack
 - **Java** with **Spring Boot**
 - **Rest Assured** with **Cucumber**
